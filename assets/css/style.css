@@ -192,6 +192,9 @@ button.btn.btn-outline-success.my-2.my-sm-0.startup-btn {
 .feature-section h2 {
     font-weight: 800;
 }
+.feature-section h5 {
+    text-transform: capitalize;
+}
 h1, h2, h3, h4, h5, h6 {
     color: #000;
 }
